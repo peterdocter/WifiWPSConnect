@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/generalpin"
+        android:title="@string/generalpin">
+    </item>
+    <item
+        android:id="@+id/custompin"
+        android:title="@string/custompin">
+    </item>
+    <item
+        android:id="@+id/custompw"
+        android:title="@string/custompw">
+    </item>
+    <item
+        android:id="@+id/getpw"
+        android:title="@string/getpw">
+    </item>
+</menu>

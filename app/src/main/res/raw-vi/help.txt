@@ -1,0 +1,8 @@
+GIỚI THIỆU
+Ứng dụng giúp kết nối Wi-fi có hỗ trợ chức năng WPS mà không cần Password hoặc mã PIN.
+TÍNH NĂNG
+Kết nối Wi-fi hỗ trợ WPS không cần Password.
+Dò tìm mã Pin của Wi-fi.
+Kết nối Wi-fi bằng Custom Pin number.
+Kết nối Wi-fi bằng Password.
+Hiển thị/ Backup/ Restore Password wifi trong máy.

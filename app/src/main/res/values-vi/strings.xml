@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Android Manifest-->
+    <string name="app_name">Wifi WPS Connect</string>
+    <string name="conn_pro_name">Wireless Network Connections Properties</string>
+    <string name="setting_name">Cài đặt</string>
+
+    <!--Dialog Button-->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--Main Activity-->
+    <string name="wifi_on_status">Đang mở Wi-fi...</string>
+    <string name="wifi_off_status">Đang tắt Wi-fi...</string>
+    <string name="not_found">Không tìm thấy</string>
+    <string name="not_found2">không được lưu trong thiết bị. Bạn hãy thử kết nối đến</string>
+    <string name="not_found3">bằng WPS</string>
+    <string name="not_found4">không được lưu trong thiết bị.</string>
+    <string name="try_conn">Thử kết nối</string>
+    <string name="pin_invalid">Sai mã Pin!</string>
+    <string name="question_exit">Bạn có muốn thoát ứng dụng?</string>
+    <string name="default_pin">Mã Pin mặc định của Access Point có thể là:</string>
+    <string name="enter_pin">Nhập mã Pin của Access Point:</string>
+    <string name="enter_pw">Nhập password Wi-fi:</string>
+    <string name="try_conn_background">Thử kết nối!</string>
+    <string name="connecting_background">Đang thử kết nối đến Wi-fi. Làm ơn đợi trong giây lát...</string>
+    <string name="connect_to_background">Kết nối đến </string>
+    <string name="fail_conn_background">Kết nối thất bại!</string>
+
+    <!--Connection Properties-->
+    <string name="saved_net_found">mạng được tìm thấy.</string>
+    <string name="prot_net_found">mạng bảo mật được tìm thấy.</string>
+    <string name="copy">Copy</string>
+    <string name="cp_pw_of">Đã copy password của </string>
+    <string name="backup_decri">Backup xong. File backup được lưu ở thư mục có đường dẫn </string>
+    <string name="backup_fail">Backup thất bại</string>
+    <string name="restore_completed">Retore xong.</string>
+    <string name="restore_fail">Restore thất bại</string>
+    <string name="not_found_bkf">Không thể tìm thấy file backup.</string>
+
+
+    <!--Setting Activity-->
+    <string name="create_shortcut_succ">Tạo shortcut thành công.</string>
+    <string name="create_shortcut_fail">Tạo shortcut thất bại.</string>
+
+    <!--Activity main Layout-->
+    <string name="network_type">Phân Loại Mạng</string>
+    <string name="network_list">Danh Sách Wi-fi</string>
+    <string name="scan">Scan</string>
+    <string name="clear">Clear</string>
+
+    <!--Connection Properties Layout-->
+    <string name="conn_info">Thông tin mạng</string>
+    <string name="conn_pro">Thuộc tính mạng</string>
+
+    <!--Setting Layout-->
+    <string name="display">HIỂN THỊ</string>
+    <string name="lange">Ngôn ngữ</string>
+    <string name="sel_lang">Chọn ngôn ngữ hiển thị. Cần khởi động lại ứng dụng.</string>
+    <string name="wireless">WIRELESS</string>
+    <string name="wifi_on">Tự động mở Wi-fi</string>
+    <string name="wifi_on_decri">Tự động mở Wi-fi khi khởi động ứng dụng.</string>
+    <string name="wifi_off">Tự động tắt Wi-fi khi tắt ứng dụng</string>
+    <string name="wifi_off_decri">Nếu Wi-fi được mở bởi ứng dụng thì sẽ tự động tắt khi tắt ứng dụng.</string>
+    <string name="shortcut">SHORTCUT</string>
+    <string name="cre_shortcut">Tạo shortcut</string>
+    <string name="cre_shortcut_decri">Tạo một shortcut đến ứng dụng trên màn hình chính.</string>
+
+    <!--Option menu-->
+    <string name="show_pw">Hiển thị password của thiết bị</string>
+    <string name="setting">Cài đặt</string>
+    <string name="help">Giúp đỡ</string>
+    <string name="about">About</string>
+
+    <!--Connection Properties Option menu-->
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+
+    <!--Context menu-->
+    <string name="generalpin">Tìm mã Pin</string>
+    <string name="custompin">Kết nối bằng mã Pin của bạn</string>
+    <string name="custompw">Kết nối bằng Password</string>
+    <string name="getpw">Lấy password</string>
+
+</resources>

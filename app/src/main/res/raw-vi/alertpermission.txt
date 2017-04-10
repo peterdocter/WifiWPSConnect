@@ -1,0 +1,1 @@
+Ứng dụng yêu cầu quyền root để thực hiện đầy đủ chức năng. Bạn cần phải cung cấp quyền SuperUser để ứng dụng có thể chạy được.

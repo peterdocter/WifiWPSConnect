@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+ 	<PreferenceCategory android:title="@string/display">
+        <ListPreference
+            android:title="@string/lange"
+            android:summary="@string/sel_lang"
+            android:entries="@array/language_entries"
+            android:entryValues="@array/language_values"
+            android:key="language"
+            />
+ 	</PreferenceCategory>
+    
+ 	<PreferenceCategory android:title="@string/wireless">
+        <CheckBoxPreference
+            android:title="@string/wifi_on"
+            android:summary="@string/wifi_on_decri"
+            android:defaultValue="true"
+            android:key="autowifion"
+            />
+        <CheckBoxPreference
+            android:title="@string/wifi_off"
+            android:summary="@string/wifi_off_decri"
+            android:defaultValue="off"
+            android:key="autowifioff"
+            />
+ 	</PreferenceCategory>
+ 	
+ 	<PreferenceCategory android:title="@string/shortcut">
+ 	    <Preference
+ 	    	android:title="@string/cre_shortcut"
+ 	    	android:summary="@string/cre_shortcut_decri"
+ 	    	android:key="createshortcut"
+ 	        />
+ 	</PreferenceCategory>'
+ 	
+ 	
+</PreferenceScreen>

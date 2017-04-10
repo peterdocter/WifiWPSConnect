@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Android Manifest-->
+    <string name="app_name">Wifi WPS Connect</string>
+    <string name="conn_pro_name">Wireless Network Connections Properties</string>
+    <string name="setting_name">Setting</string>
+
+    <!--Dialog Button-->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--Main Activity-->
+    <string name="wifi_on_status">Wifi is disabled. Making it enable.</string>
+    <string name="wifi_off_status">Making Wi-fi off.</string>
+    <string name="not_found">Not Found</string>
+    <string name="not_found2">not saved in device. You can try connect to</string>
+    <string name="not_found3">by WPS</string>
+    <string name="not_found4">not saved in device.</string>
+    <string name="try_conn">Try to Connect</string>
+    <string name="pin_invalid">Pin invalid!</string>
+    <string name="question_exit">Are you sure you want to exit?</string>
+    <string name="default_pin">Default Pin Number may be:</string>
+    <string name="enter_pin">Enter Pin Number your Access Point:</string>
+    <string name="enter_pw">Enter Password your Access Point:</string>
+    <string name="try_conn_background">Try to Connect!</string>
+    <string name="connecting_background">Connecting. Please Wait...</string>
+    <string name="connect_to_background">Connected to </string>
+    <string name="fail_conn_background">Fail connect!</string>
+
+    <!--Connection Properties-->
+    <string name="saved_net_found">Saved Networks Found.</string>
+    <string name="prot_net_found">Protected Networks Found.</string>
+    <string name="copy">Copy</string>
+    <string name="cp_pw_of">Copied Password of </string>
+    <string name="backup_decri">Backup completed. File backup saved to</string>
+    <string name="backup_fail">Backup Fail</string>
+    <string name="restore_completed">Retore completed.</string>
+    <string name="restore_fail">Restore Fail</string>
+    <string name="not_found_bkf">Not found backup file.</string>
+
+
+    <!--Setting Activity-->
+    <string name="create_shortcut_succ">Create shortcut successful.</string>
+    <string name="create_shortcut_fail">Create shortcut fail.</string>
+
+    <!--Activity main Layout-->
+    <string name="network_type">Network Type</string>
+    <string name="network_list">Wireless List</string>
+    <string name="scan">Scan</string>
+    <string name="clear">Clear</string>
+
+    <!--Connection Properties Layout-->
+    <string name="conn_info">Network Information</string>
+    <string name="conn_pro">Network Properties</string>
+
+    <!--Setting Layout-->
+    <string name="display">DISPLAY</string>
+    <string name="lange">Language</string>
+    <string name="sel_lang">Change the display language require restart Application.</string>
+    <string name="wireless">WIRELESS</string>
+    <string name="wifi_on">Auto Wifi on</string>
+    <string name="wifi_on_decri">Turn on Wifi automatically if necessary.</string>
+    <string name="wifi_off">Auto Wifi off when exit</string>
+    <string name="wifi_off_decri">Turn off Wifi at exit when it was turned on by this application.</string>
+    <string name="shortcut">SHORTCUT</string>
+    <string name="cre_shortcut">Create shortcut</string>
+    <string name="cre_shortcut_decri">Create shortcut in home display.</string>
+
+    <!--Option menu-->
+    <string name="show_pw">Show your Password</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+
+    <!--Connection Properties Option menu-->
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+
+    <!--Context menu-->
+    <string name="generalpin">General PIN Number</string>
+    <string name="custompin">Connect use custom Pin Number</string>
+    <string name="custompw">Connect use Password</string>
+    <string name="getpw">Get Password</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+DESCRIPTION
+With this application you can connect to Wi-fi network with the WPS protocol enabled.
+FEATURES
+Connect to Wi-fi network with the WPS protocol enabled.
+General Pin number of Wi-Fi.
+Connect Wi-fi network with your Pin number.
+Connect Wi-fi network with your Password.
+Show/ Backup/ Restore Wi-fi Password saved on your device.

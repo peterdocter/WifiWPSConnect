@@ -1,0 +1,2 @@
+Your device is UNROOT or You were denied the SuperUser privileges. This application cannot run.
+Thank you for your fairness and kindness.

@@ -1,0 +1,1 @@
+This Application needs root permissions. You need to allow the SuperUser privileges to run this application.

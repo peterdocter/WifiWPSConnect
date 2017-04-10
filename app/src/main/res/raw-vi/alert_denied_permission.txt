@@ -1,0 +1,2 @@
+Thiết bị của bạn không hỗ trợ Root hoặc bạn đã từ chối cung cấp quyền SuperUser cho ứng dụng. Nên ứng dụng sẽ không thể thể chạy được.
+Xin cảm ơn bạn đã download ứng dụng.

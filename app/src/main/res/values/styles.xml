@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Spinner_nettype" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/spinner_color</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Spinner_nettype_dropdown" parent="android:Widget.DeviceDefault.Light.DropDownItem.Spinner">
+        <item name="android:textColor">@color/spinner_color</item>
+    </style>
+
+</resources>
